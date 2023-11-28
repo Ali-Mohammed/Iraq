@@ -13,7 +13,7 @@
       "properties": {
         "Shape_Leng": 17.0902029646,
         "Shape_Area": 11.9536726794,
-        "ADM1_EN": "Anbar",
+        "name": "Anbar",
         "ADM1_AR": "الانبار",
         "ADM1_PCODE": "IQG01",
         "ADM1_REF": null,
@@ -2579,7 +2579,7 @@
       "properties": {
         "Shape_Leng": 8.05702909448,
         "Shape_Area": 1.77414326389,
-        "ADM1_EN": "Basrah",
+        "name": "Basrah",
         "ADM1_AR": "البصرة",
         "ADM1_PCODE": "IQG02",
         "ADM1_REF": null,
@@ -4429,7 +4429,7 @@
       "properties": {
         "Shape_Leng": 10.0847298646,
         "Shape_Area": 4.83857404791,
-        "ADM1_EN": "Muthanna",
+        "name": "Muthanna",
         "ADM1_AR": "المثنى",
         "ADM1_PCODE": "IQG03",
         "ADM1_REF": null,
@@ -6443,7 +6443,7 @@
       "properties": {
         "Shape_Leng": 8.9594185838,
         "Shape_Area": 3.79718438358,
-        "ADM1_EN": "Najaf",
+        "name": "Najaf",
         "ADM1_AR": "النجف",
         "ADM1_PCODE": "IQG04",
         "ADM1_REF": null,
@@ -8413,7 +8413,7 @@
       "properties": {
         "Shape_Leng": 4.77267802575,
         "Shape_Area": 0.808104955737,
-        "ADM1_EN": "Qadisiya",
+        "name": "Qadisiya",
         "ADM1_AR": "القادسية",
         "ADM1_PCODE": "IQG05",
         "ADM1_REF": null,
@@ -9999,7 +9999,7 @@
       "properties": {
         "Shape_Leng": 9.38978955799,
         "Shape_Area": 1.74695192544,
-        "ADM1_EN": "Sulaimaniya",
+        "name": "Sulaimaniya",
         "ADM1_AR": "السليمانية",
         "ADM1_PCODE": "IQG06",
         "ADM1_REF": null,
@@ -13617,7 +13617,7 @@
       "properties": {
         "Shape_Leng": 4.0772086685,
         "Shape_Area": 0.512557560122,
-        "ADM1_EN": "Babil",
+        "name": "Babil",
         "ADM1_AR": "بابل",
         "ADM1_PCODE": "IQG07",
         "ADM1_REF": null,
@@ -15515,7 +15515,7 @@
       "properties": {
         "Shape_Leng": 4.51448504793,
         "Shape_Area": 0.493610016192,
-        "ADM1_EN": "Baghdad",
+        "name": "Baghdad",
         "ADM1_AR": "بغداد",
         "ADM1_PCODE": "IQG08",
         "ADM1_REF": null,
@@ -17597,7 +17597,7 @@
       "properties": {
         "Shape_Leng": 9.05746882318,
         "Shape_Area": 1.82819345621,
-        "ADM1_EN": "Diyala",
+        "name": "Diyala",
         "ADM1_AR": "ديالى",
         "ADM1_PCODE": "IQG10",
         "ADM1_REF": null,
@@ -20915,7 +20915,7 @@
       "properties": {
         "Shape_Leng": 4.87078147069,
         "Shape_Area": 0.672985942482,
-        "ADM1_EN": "Dohuk",
+        "name": "Dohuk",
         "ADM1_AR": "دهوك",
         "ADM1_PCODE": "IQG09",
         "ADM1_REF": null,
@@ -22505,7 +22505,7 @@
       "properties": {
         "Shape_Leng": 8.85157142761,
         "Shape_Area": 1.45506045385,
-        "ADM1_EN": "Erbil",
+        "name": "Erbil",
         "ADM1_AR": "اربيل",
         "ADM1_PCODE": "IQG11",
         "ADM1_REF": null,
@@ -25267,7 +25267,7 @@
       "properties": {
         "Shape_Leng": 3.02371877824,
         "Shape_Area": 0.486180363565,
-        "ADM1_EN": "Kerbala",
+        "name": "Kerbala",
         "ADM1_AR": "كربلاء",
         "ADM1_PCODE": "IQG12",
         "ADM1_REF": null,
@@ -26141,7 +26141,7 @@
       "properties": {
         "Shape_Leng": 5.02876387377,
         "Shape_Area": 1.01083307027,
-        "ADM1_EN": "Kirkuk",
+        "name": "Kirkuk",
         "ADM1_AR": "كركوك",
         "ADM1_PCODE": "IQG13",
         "ADM1_REF": null,
@@ -27515,7 +27515,7 @@
       "properties": {
         "Shape_Leng": 5.93609791387,
         "Shape_Area": 1.58627391436,
-        "ADM1_EN": "Maysan",
+        "name": "Maysan",
         "ADM1_AR": "ميسان",
         "ADM1_PCODE": "IQG14",
         "ADM1_REF": null,
@@ -29421,7 +29421,7 @@
       "properties": {
         "Shape_Leng": 10.2385603036,
         "Shape_Area": 3.79562999889,
-        "ADM1_EN": "Ninewa",
+        "name": "Ninewa",
         "ADM1_AR": "نينوى",
         "ADM1_PCODE": "IQG15",
         "ADM1_REF": null,
@@ -31603,7 +31603,7 @@
       "properties": {
         "Shape_Leng": 9.36500115695,
         "Shape_Area": 2.45455089444,
-        "ADM1_EN": "Salah al-Din",
+        "name": "Salah al-Din",
         "ADM1_AR": "صلاح الدين",
         "ADM1_PCODE": "IQG16",
         "ADM1_REF": null,
@@ -33917,7 +33917,7 @@
       "properties": {
         "Shape_Leng": 5.87242376392,
         "Shape_Area": 1.25848168987,
-        "ADM1_EN": "Dhi Qar",
+        "name": "Dhi Qar",
         "ADM1_AR": "ذي قار",
         "ADM1_PCODE": "IQG17",
         "ADM1_REF": null,
@@ -35875,7 +35875,7 @@
       "properties": {
         "Shape_Leng": 7.40005895905,
         "Shape_Area": 1.66849492378,
-        "ADM1_EN": "Wasit",
+        "name": "Wasit",
         "ADM1_AR": "واسط",
         "ADM1_PCODE": "IQG18",
         "ADM1_REF": null,
